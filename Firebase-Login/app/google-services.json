@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "435661079757",
+    "firebase_url": "https://deeppi-99726.firebaseio.com",
+    "project_id": "deeppi-99726",
+    "storage_bucket": "deeppi-99726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435661079757:android:3f8196123958667b",
+        "android_client_info": {
+          "package_name": "com.example.diogoaleixo.deeppi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435661079757-bfr44cdion8u6mi7uhnemv072s2228qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diogoaleixo.deeppi",
+            "certificate_hash": "b55d221285ae19dffc753e4a101539f1d32c87c2"
+          }
+        },
+        {
+          "client_id": "435661079757-389qa75pqgiih3tee4324d5qf8rcbq8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdXVnr6ImQHuQkbaTbx82hzqNK7Jx_n8"
+        },
+        {
+          "current_key": "AIzaSyB2KWXZGJDxiRHp9TJsPHpm3Slmaa3HA0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435661079757-389qa75pqgiih3tee4324d5qf8rcbq8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435661079757:android:97de73295fecb5fb",
+        "android_client_info": {
+          "package_name": "com.example.diogoaleixo.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435661079757-h03b8pmml6bhqnd966q41t03as27rfcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diogoaleixo.firebaseauth",
+            "certificate_hash": "b55d221285ae19dffc753e4a101539f1d32c87c2"
+          }
+        },
+        {
+          "client_id": "435661079757-389qa75pqgiih3tee4324d5qf8rcbq8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdXVnr6ImQHuQkbaTbx82hzqNK7Jx_n8"
+        },
+        {
+          "current_key": "AIzaSyB2KWXZGJDxiRHp9TJsPHpm3Slmaa3HA0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435661079757-389qa75pqgiih3tee4324d5qf8rcbq8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435661079757:android:cb25290038504153",
+        "android_client_info": {
+          "package_name": "com.example.altran.realtimedatabasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435661079757-6594v8qghso8t03pl7i616c3cr8ridep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.altran.realtimedatabasefirebase",
+            "certificate_hash": "4ba88441080f2db9f5c6fc50f25c5966bcf716e9"
+          }
+        },
+        {
+          "client_id": "435661079757-389qa75pqgiih3tee4324d5qf8rcbq8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdXVnr6ImQHuQkbaTbx82hzqNK7Jx_n8"
+        },
+        {
+          "current_key": "AIzaSyB2KWXZGJDxiRHp9TJsPHpm3Slmaa3HA0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435661079757-389qa75pqgiih3tee4324d5qf8rcbq8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435661079757:android:2e42b95955389874",
+        "android_client_info": {
+          "package_name": "com.example.diogoaleixo.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435661079757-bat38gabp7v2mkumsf56bo32ru1aanih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diogoaleixo.firebase_login",
+            "certificate_hash": "b55d221285ae19dffc753e4a101539f1d32c87c2"
+          }
+        },
+        {
+          "client_id": "435661079757-389qa75pqgiih3tee4324d5qf8rcbq8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdXVnr6ImQHuQkbaTbx82hzqNK7Jx_n8"
+        },
+        {
+          "current_key": "AIzaSyB2KWXZGJDxiRHp9TJsPHpm3Slmaa3HA0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435661079757-389qa75pqgiih3tee4324d5qf8rcbq8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
