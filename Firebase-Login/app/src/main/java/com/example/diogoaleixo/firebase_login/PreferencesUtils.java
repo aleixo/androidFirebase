@@ -8,11 +8,11 @@ import android.preference.PreferenceManager;
  * Created by diogoaleixo on 19/04/2017.
  */
 
-public class PreferencesManager {
+public class PreferencesUtils {
 
     Context context;
 
-    public PreferencesManager(Context context) {
+    public PreferencesUtils(Context context) {
 
         this.context = context;
     }
